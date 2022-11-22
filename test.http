@@ -1,0 +1,19 @@
+
+
+get http://localhost:3000/states/
+
+
+
+###
+get http://localhost:3000/states/7/stats/
+
+###
+
+
+get http://localhost:3000/districts/322/details/
+
+###
+
+
+
+get http://localhost:3000/districts/
